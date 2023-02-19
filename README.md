@@ -7,6 +7,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ![](screenshots/Experience_lgScreen.jpg)
 ![](screenshots/Skills_lgScreen.jpg)
 ![](screenshots/Projects_lgScreen.jpg)
+![](screenshots/Contact_lgScreen.jpg)
 
 
 ####For md & sm screens
@@ -15,6 +16,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ![](screenshots/Experience_mdScreen.jpg)
 ![](screenshots/Skills_mdScreen.jpg)
 ![](screenshots/Projects_mdScreen.jpg)
+![](screenshots/Contact_mdScreen.jpg)
 
 
 First, run the development server:
