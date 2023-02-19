@@ -1,6 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+## Screenshots (As Not deployed yet.)
+![](screenshots/Home_lgScreen.jpg)
+![](screenshots/About_lgScreen.jpg)
+![](screenshots/Experience_lgScreen.jpg)
+![](screenshots/Skills_lgScreen.jpg)
+![](screenshots/Projects_lgScreen.jpg)
+
+
+####For md & sm screens
+![](screenshots/Home_mdScreen.jpg)
+![](screenshots/About_mdScreen.jpg)
+![](screenshots/Experience_mdScreen.jpg)
+![](screenshots/Skills_mdScreen.jpg)
+![](screenshots/Projects_mdScreen.jpg)
+
 
 First, run the development server:
 
